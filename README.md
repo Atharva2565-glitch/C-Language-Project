@@ -8,7 +8,7 @@ This repository contains a collection of C programming projects focused on logic
 ## Projects Included
 - Guess Number Game  
 - ATM System  
-
+- Tic-Tac-Toe
 ## How to Run
 1. Open terminal  
 2. Navigate to project folder  
